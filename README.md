@@ -3,7 +3,7 @@
 A lightweight, standalone desktop application for generating strong and customizable passwords.  
 Built with Python and Tkinter, designed with a hacker-friendly dark interface and green neon style.
 
-![screenshot](screenshots/Screenshot_App_1) <!-- Opcional: añade captura -->
+![App Screenshot](screenshots/Screenshot_App_1.png)
 
 ---
 
@@ -14,13 +14,6 @@ Built with Python and Tkinter, designed with a hacker-friendly dark interface an
 - Instantly **copy passwords** to clipboard
 - No installation required — just run the `.exe`
 - Minimalist and secure design
-
----
-
-## 🖼️ Preview
-
-> 📷 You can add a screenshot in `screenshots/` and update the image path above  
-> Recommended size: ~900x500px
 
 ---
 
