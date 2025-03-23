@@ -3,7 +3,7 @@
 A lightweight, standalone desktop application for generating strong and customizable passwords.  
 Built with Python and Tkinter, designed with a hacker-friendly dark interface and green neon style.
 
-<img src="screenshots/Screenshot_App_1.png" alt="App Screenshot" width="600"/>
+<img src="screenshots/Screenshot_App_1.png" alt="App Screenshot" width="300"/>
 
 ---
 
